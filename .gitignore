@@ -1,0 +1,9 @@
+# 运行产物
+*.log
+*.bak-*
+*.zip
+
+# 系统垃圾
+Thumbs.db
+.DS_Store
+desktop.ini
